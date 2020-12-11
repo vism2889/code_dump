@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Split the Bill</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcomeTitle">Split your Bill!</string>
+    <string name="welcomeBtn">Make the Split</string>
+    <string name="inScreenInfo">Fill out the info below, Then press \"SPLIT\".</string>
+    <string name="inScreenTitle">Make life easy, let us do the math!</string>
+    <string name="numberGuests">Please Enter the Number of Guests</string>
+    <string name="billTotal">Enter the Total cost of the Bill.</string>
+    <string name="gatuityNote">A default Gtauity of 18% will be calculated</string>
+    <string name="splitButton">SPLIT!</string>
+    <string name="title_activity_split_bill">Lets make the Split!</string>
+    <string name="qualityPrompt">Enter the Quality Of Service</string>
+    <string-array name="splitBillService">
+        <item>Enter the Quality of Service:</item>
+        <item>Excellent</item>
+        <item>Average</item>
+        <item>Poor</item>
+    </string-array>
+</resources>

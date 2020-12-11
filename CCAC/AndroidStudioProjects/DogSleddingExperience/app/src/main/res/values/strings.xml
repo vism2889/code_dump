@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dog Sledding Experience</string>
+    <string name="action_settings">Settings</string>
+    <string name="imgDogsled">Dog Sledding Image</string>
+    <string name="txtTitle">Dog Sledding Experience</string>
+    <string name="txtDesciption">Book a dog sledding adeventure in Ely MN today!  Day trips, over night adventures, and full week long excursions!  Traveling by sled with our beautiful and humble siberian husky sled teams is unlike any other traveling experience!  The trips include camp breakfast, lunch on the trail, and a decompression experience, where we will play with and groom the sled teams.  Reservations may be cancelled with a full refund if made within 72 hours of your scheduled check-in.</string>
+    <string name="btnDate">Select the Date for an Awesome Dog Sledding Experience</string>
+
+</resources>

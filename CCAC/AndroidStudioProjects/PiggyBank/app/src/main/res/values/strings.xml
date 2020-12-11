@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Piggy Bank</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_action_screen">ActionScreen</string>
+
+
+    <string name="welcomeTitle">Welcome to Your Piggy Bank</string>
+    <string name="getStartedButton">Get Started!</string>
+
+    <string name="actionTitle">Fill out the information below</string>
+
+    <string name="quarters">Enter the Number of Quarters</string>
+    <string name="dimes">Enter the Number of Dimes</string>
+    <string name="nickles">Enter the number of Nickles</string>
+    <string name="pennies">Enter the number of pennies</string>
+    <string name="calculateButton">Calculate Total</string>
+    <string-array name="options">
+        <item>Are you spending or saving?</item>
+        <item>Spending</item>
+        <item>Saving</item>
+    </string-array>
+</resources>

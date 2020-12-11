@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+    <item android:drawable="@drawable/bowser10" android:duration="100"/>
+    <item android:drawable="@drawable/bowser9" android:duration="100"/>
+    <item android:drawable="@drawable/bowser8" android:duration="100"/>
+    <item android:drawable="@drawable/bowser7" android:duration="100"/>
+    <item android:drawable="@drawable/bowser6" android:duration="100"/>
+    <item android:drawable="@drawable/bowser5" android:duration="100"/>
+    <item android:drawable="@drawable/bowser4" android:duration="100"/>
+    <item android:drawable="@drawable/bowser3" android:duration="100"/>
+    <item android:drawable="@drawable/bowser2" android:duration="100"/>
+    <item android:drawable="@drawable/bowser1" android:duration="100"/>
+
+</animation-list>

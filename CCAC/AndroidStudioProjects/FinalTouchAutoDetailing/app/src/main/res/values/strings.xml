@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Final Touch Auto Detailing</string>
+    <string name="action_settings">Settings</string>
+    <string name="imgCarDetail">Image of car being detailed</string>
+    <string name="txtTitle">Final Touch Auto Detailing</string>
+    <string name="txtDesciption">Affordable and professional detailing services.  We offer an interior vacuum service, a professional waxing and polishing service, professional window tinting in various colors and custom options, and a deep interior upholstery steam cleaning thats sure to get out any stains or unwanted scents.</string>
+    <string name="btnDate">Select the date to have your vehicle detailed</string>
+    <string name="chkBox1">Car Vacuum $14.99</string>
+    <string name="chkBox2">Car Waxing $49.99</string>
+    <string name="chkBox3">Car Window Tinting $189.99</string>
+    <string name="chkBox4">Car Upholstery Steam Cleaning $169.99</string>
+</resources>

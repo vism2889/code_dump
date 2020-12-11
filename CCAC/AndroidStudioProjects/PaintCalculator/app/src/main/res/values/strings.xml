@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Paint Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="roomCirc">Circumference of Room</string>
+    <string name="roomHeight">Height of room</string>
+    <string name="homeCenter_title">Morgans Home Improvement Center</string>
+    <string name="department">Paint Department</string>
+    <string name="button">Calculate paint quantity</string>
+    <string-array name = "txtGroup">
+        <item>White</item>
+        <item>French Blue</item>
+        <item>Sienna</item>
+        <item>Grey Sky</item>
+        <item>Beige</item>
+    </string-array>
+</resources>

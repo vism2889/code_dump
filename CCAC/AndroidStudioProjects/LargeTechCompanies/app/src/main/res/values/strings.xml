@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Large Tech Companies</string>
+    <string name="action_settings">Settings</string>
+    <string name="tech_companies">Largest Tech Companies ranked according to revenue: Apple inc., Samsung electronics, Amazon, Hon Hai Precision/Foxconn, Aphabet inc.</string>
+</resources>

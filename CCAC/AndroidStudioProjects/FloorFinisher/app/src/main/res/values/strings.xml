@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Floor Finisher</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="title">Tile Calculator</string>
+    <string name="info">This will help you alculate the number of tiles you will need to refinish your floor. </string>
+    <string name="directions">Please Enter the Dimensions in Whole Feet</string>
+
+    <string name="large">18 X 18 inch tile</string>
+    <string name="small">12 X 12 inch tile</string>
+
+    <string name="enterWidth">Please Enter the Width</string>
+    <string name="enterLength">Please Enter the Length</string>
+    <string name="caclulate">Calculate Amount of Tile</string>
+
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Wild Ginger Dinner Delivery</string>
+    <string name="action_settings">Settings</string>
+    <string name="imgCarDetail">Image of Meal Preparations</string>
+    <string name="txtTitle">Wild Ginger Dinner Delivery</string>
+    <string name="txtDesciption">Delicious, organic, culturally authentic dinners delivered right to your door. This months dinners are Korean, Japanese, Vietnamese, and Ethiopian. </string>
+    <string name="btnDate">Select the time to have your dinner delivered tonight</string>
+    <string name="chkBox1">Korean Dinner (Beef Bulgogi)</string>
+    <string name="chkBox2">Japanese Dinner (Kare-Raisu)</string>
+    <string name="chkBox3">Vietnamese Dinner (Bahn Mi Sandwich)</string>
+    <string name="chkBox4">Ethiopian Dinner (Ful Medames)</string>
+</resources>

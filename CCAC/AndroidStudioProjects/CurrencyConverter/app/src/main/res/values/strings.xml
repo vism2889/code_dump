@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title">Currency Converter</string>
+    <string name="info">Convert U.S. Dollars to:</string>
+    <string name="currTypes">Euros, Mexican Pesos, or Canadian Dollars</string>
+
+    <string name="convertTo">Select Conversion Output:</string>
+    <string name="euro">Euros</string>
+    <string name="pesos">Mexican Pesos</string>
+    <string name="canadian">Canadian Dollars</string>
+
+    <string name="warning">This program only converts values below $100,000 U.S. Dollars.</string>
+
+    <string name="dollarHint">Please enter an amount in U.S. Dollars</string>
+
+    <string name="calcButton">Convert</string>
+</resources>

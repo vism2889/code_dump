@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+
+    <include layout="@layout/content_main" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_width="500dp"
+            android:layout_height="800dp"
+            android:id="@+id/imgSled"
+            android:contentDescription="@string/imgCarDetail"
+            android:src="@drawable/dinners"/>
+        <TableLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <TableRow android:layout_width="wrap_content">
+                <View android:layout_height="60dp" />
+                <TextView
+                    android:id="@+id/txtTitle"
+                    android:layout_width="wrap_content"
+                    android:background="#1C385E"
+                    android:gravity="fill_horizontal"
+                    android:padding="30dp"
+                    android:text="@string/txtTitle"
+                    android:textSize="40sp"
+                    android:typeface="serif"/>
+            </TableRow>
+            <TableRow>
+                <View android:layout_height="60dp" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:id="@+id/txtDescription"
+                    android:textSize="22sp"
+                    android:text="@string/txtDesciption"
+                    android:padding="20dp"
+                    android:layout_gravity="left"/>
+            </TableRow>
+
+            <CheckBox
+                android:id="@+id/chkBox1"
+                android:layout_width="wrap_content"
+                android:gravity="left"
+                android:padding="1dp"
+                android:text="@string/chkBox1"
+                android:textSize="20sp" />
+            <CheckBox
+                android:id="@+id/chkBox2"
+                android:layout_width="wrap_content"
+                android:gravity="left"
+                android:padding="1dp"
+                android:text="@string/chkBox2"
+                android:textSize="20sp" />
+            <CheckBox
+                android:id="@+id/chkBox3"
+                android:layout_width="wrap_content"
+                android:gravity="left"
+                android:padding="1dp"
+                android:text="@string/chkBox3"
+                android:textSize="20sp" />
+            <CheckBox
+                android:id="@+id/chkBox4"
+                android:layout_width="wrap_content"
+                android:gravity="left"
+                android:padding="1dp"
+                android:text="@string/chkBox4"
+                android:textSize="20sp" />
+
+            <TableRow>
+                <View android:layout_height="50dp" />
+                <Button
+                    android:id="@+id/btnDate"
+                    android:layout_width="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:padding="15dp"
+                    android:paddingRight="100dp"
+                    android:background="#63BD67"
+                    android:text="@string/btnDate"
+                    android:textSize="36sp" />
+            </TableRow>
+            <TableRow>
+                <View android:layout_height="60dp" />
+                <TextView
+
+                    android:id="@+id/txtReservation"
+                    android:layout_gravity="center"
+                    android:padding="20dp"
+                    android:textSize="30sp"
+                    android:textColor="#F3DA64"/>
+            </TableRow>
+
+
+        </TableLayout>
+
+    </LinearLayout>
+
+
+
+</android.support.design.widget.CoordinatorLayout>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Moving Truck Rental</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_cost">CostActivity</string>
+    <string name="btnSmall">10-foot truck $19.95</string>
+    <string name="btnMedium">17-foot truck $29.95</string>
+    <string name="btnLarge">26-foot truck $39.95</string>
+    <string name="hintMiles">Enter your mileage</string>
+    <string name="title_activity_opening">Opening</string>
+</resources>

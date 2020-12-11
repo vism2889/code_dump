@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chocolate Cafe</string>
+    <string name="action_settings">Settings</string>
+    <string name="mousse">Chocolate Mouse Image</string>
+    <string name="cake">Chocolate Cake Image</string>
+    <string name="macaron">Chocolate Macaron Image</string>
+    <string name="title_activity_mousse">mousse</string>
+    <string name="title_activity_cake">cake</string>
+    <string name="title_activity_macaron">macaron</string>
+</resources>

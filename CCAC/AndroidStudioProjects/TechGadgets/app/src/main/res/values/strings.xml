@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tech Gadgets</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_graphics_card">GraphicsCard</string>
+    <string name="title_activity_raspberry_pi">RaspberryPi</string>
+    <string name="title_activity_modular_synth">ModularSynth</string>
+    <string name="title_activity_three_dprinter">ThreeDPrinter</string>
+    <string name="title_activity_vrheadset">VRHeadset</string>
+    <string name="return_to_menu">Return to Menu</string>
+    <string name="more_info">More Information</string>
+</resources>

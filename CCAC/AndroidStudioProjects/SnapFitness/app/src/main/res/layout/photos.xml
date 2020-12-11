@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TableRow>
+        <ImageView
+            android:src="@drawable/climbing4"
+            android:layout_width="150dp"
+            android:layout_height="150dp" />
+        <TextView
+            android:paddingLeft="20dp"
+            android:layout_width="700dp"
+            android:layout_height="wrap_content"
+            android:textSize="30sp"
+            android:text="Relaxing and Refreshing Yoga. Classes offered daily, free to members $15 per session for non-members."
+            android:layout_gravity="center_horizontal"/>
+    </TableRow>
+
+    <TableRow>
+        <ImageView
+            android:src="@drawable/climbing3"
+            android:layout_width="150dp"
+            android:layout_height="150dp"/>
+        <TextView
+            android:layout_width="775dp"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:textSize="30sp"
+            android:text="We have a state of the art fitness center, equipped with machine and free-weights.  We also have many skilled personal trainers available for further private instruction."
+            android:layout_gravity="center_horizontal"/>
+    </TableRow>
+    <TableRow>
+        <ImageView
+            android:src="@drawable/climbing2"
+            android:layout_width="150dp"
+            android:layout_height="150dp"/>
+        <TextView
+            android:layout_width="700dp"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:textSize="30sp"
+            android:text="Our climbing area is the biggest in the region, its modular design allows us to constantly create new challenges for our members."
+            android:layout_gravity="center_horizontal"/>
+    </TableRow>
+
+    <TableRow>
+        <ImageView
+            android:src="@drawable/climbing1"
+            android:layout_width="150dp"
+            android:layout_height="150dp"/>
+        <TextView
+            android:layout_width="800dp"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:textSize="30sp"
+            android:text="We strongly believe habits start to form when we are young, every amenity available to our adult members are available to our youth members, we hope this helps with a fun and healthy exercise routine that will last a lifetime."
+            android:layout_gravity="center_horizontal"/>
+    </TableRow>
+
+</TableLayout>

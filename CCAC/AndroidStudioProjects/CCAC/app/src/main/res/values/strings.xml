@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CCAC</string>
+    <string name="action_settings">Settings</string>
+    <string name="School">Community College of Allegheny County</string>
+    <string name="Location">Pittsburgh, Pennsylvania</string>
+    <string name="btnMoreInfor">School Information</string>
+    <string name="schoolphone">Phone: 412.237.2525</string>
+    <string name="address">808 Ridge Avenue Pittsburgh, PA 15212</string>
+</resources>

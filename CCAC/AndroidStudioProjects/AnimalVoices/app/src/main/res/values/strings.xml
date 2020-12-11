@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Animal Voices</string>
+    <string name="action_settings">Settings</string>
+    <string name="animal_voices">Animal Voices</string>
+    <string name="cow">Listen to the Cows</string>
+    <string name="pig">Listen to the Pigs</string>
+    <string name="farm_image">Image of Farm</string>
+    <string name="cow_image">Image of Cow</string>
+    <string name="pig_image">Image of Pig</string>
+    <string name="title_activity_button">ButtonActivity</string>
+</resources>

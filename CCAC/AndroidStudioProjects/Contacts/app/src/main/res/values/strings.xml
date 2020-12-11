@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="action_settings">Settings</string>
+    <string name="contact1_jordan">Jordan</string>
+    <string name="contact2_Jeremy">Jeremy</string>
+    <string name="contact1_fullname">Name: Jordan Matthew Fell</string>
+    <string name="contact2_fullname">Name: Jeremy William Baker</string>
+    <string name="contact1_phone">Phone: 516-222-3434</string>
+    <string name="contact2_phone">Phone: 819-467-7908</string>
+    <string name="contact1_address">Address Line 1: 1900 Williamsport HW apt. d519</string>
+    <string name="contact2_address">Address Line 1: 815 fellowship Rd</string>
+    <string name="contact1_citystate">City/State: New York NY 82791-1209</string>
+    <string name="contact2_citystate">City/State: Pittsburgh PA 15203-1123</string>
+    <string name="title_activity_contact1">contact1</string>
+    <string name="title_activity_contact2">contact2</string>
+    <string name="contact1_button">Complete Contact Information</string>
+    <string name="contact2_button">Complete Contact Information</string>
+</resources>
