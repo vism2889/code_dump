@@ -1,0 +1,52 @@
+<html>
+<head>
+<title>JavaJam Coffee House Jobs</title>
+<meta name="viewport"
+content="width=device-width, initial-scale=1.0">
+<!--[if lt IE 9]>
+<script scr="http://html5shim.googlecode.com/svn/trunk/html5.js">
+</script>
+<![endif]-->
+</head>
+
+<body>
+<div id="wrapper">
+<header>
+<h1>JavaJam Coffee House</h1>
+<link rel="stylesheet" href="javajam.css">
+</header>
+<nav>
+  <ul>
+  <li><a href= "index.html">Home</a> </li>
+  <li><a href= "menu.html">Menu</a> </li>
+  <li><a href= "music.html">Music</a> </li>
+  <li><a href= "jobs.html">Jobs</a> </li>
+</ul>
+</nav>
+<main style="padding-top: .1em">
+<h2>Jobs at JavaJam</h2>
+<p>Want to work at JavaJam? Fill out the form below to start your application.
+  Required fields are marked with an asterisk (*).
+</p>
+
+<form method="post" action="http://webdevbasics.net/scripts/javajam8.php">
+  <label for="myName">*Name:</label>
+  <input required="required" type="text" name="myName" id="myName">
+  <label for="myEmail">*Email:</label>
+  <input required="required" type="email" name="myEmail" id="myEmail">
+  <label for="myExperience">*Experience:</label>
+  <textarea required="required" name="myExperience" id="myExperience" rows="2" cols="20"></textarea>
+  <input  id="mySubmit" type="submit" value="Apply Now">
+</form>
+
+
+<br><br>
+</main>
+
+<footer>
+  Copyright &copy;2018 Morgan Visnesky<br>
+  <a href="mailto:mvisn08@acd.ccac.edu">mvisn08@acd.ccac.edu<a/>
+</footer>
+</div>
+</body>
+</html>

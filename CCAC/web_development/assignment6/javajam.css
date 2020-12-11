@@ -1,0 +1,123 @@
+* {box-sizing: border-box;}
+* {font-family: verdana;}
+
+body { background-color: #FCEBB6;
+      color: #221811;
+      background-image: url(javajam_images/background.gif);}
+header {background-color: #D2B48C;
+      height: 150px;
+      background: url(javajam_images/javajamlogo.jpg) no-repeat left center #D2B48C;
+      display: block;}
+h1 {padding-top: 45px;
+    padding-left: 220px;
+    font-size: 3em;}
+h4 {background-color: #D2B48C;
+    font-size: 1.2em;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+    border-bottom: 1px;
+    padding-bottom: 0;
+    clear: left;}
+main {padding-left: 0;
+    margin-left: 200px;
+    padding-right: 0;
+    padding-top: 0;
+    padding-left: 0;
+    padding-bottom: 2em;
+    background-color: #FEF6C2;
+    display: block;}
+main h2 {
+  padding-left: 3em;
+  padding-right: 2em;
+}
+main h3{
+  padding-left: 3em;
+  padding-right: 2em;
+}
+main h4{
+  padding-left: 3em;
+  padding-right: 2em;
+}
+main p{
+  padding-left: 3em;
+  padding-right: 2em;
+}
+main div{
+  padding-left: 3em;
+  padding-right: 2em;
+}
+main ul{
+  padding-left: 3em;
+  padding-right: 2em;
+}
+main dl{
+  padding-left: 3em;
+  padding-right: 2em;
+}
+
+
+
+nav ul nav {list-style-type: none;
+            padding-left: 0}
+
+nav a:link {color: #FEF6C2}
+nav a:visited {color: #D2B48C}
+nav a:hover {color: #CC9933}
+nav a {text-decoration: none;}
+nav {float: left;
+    width: 200px;
+    font-size: 1.5em;
+    padding-top: 10px;
+    text-align: center;
+    font-weight: bold;
+    overflow: auto;
+  display: block;}
+footer {padding-bottom: 10px;
+      border-top-width: 2px;
+      border-top-style: solid;
+      border-top-color: #221811;
+      background-color: #D2B48C;
+      font-size: .60em;
+      text-align: center;
+      font-style: italic;
+    display: block;}
+img {padding-left: 10px;
+    padding-right: 10px;}
+
+dt {
+  padding-left: 3em;
+  padding-right: 2em;
+}
+
+dd {
+  padding-left: 3em;
+  padding-right: 2em;
+}
+.floatleft {
+  float: left;
+  padding-right: 20px;
+  padding-bottom: 20px;
+}
+#wrapper {background-color: #231814;
+        min-width: 900px;
+        max-width: 1280px;
+        box-shadow: 5px 5px 5px #828282;
+        margin-left: auto;
+        margin-right: auto;
+        width: 80%;}
+#details {padding-left: 20%;
+          padding-right: 20%;
+        overflow: auto;}
+#heroroad {background-image: url(javajam_images/heroroad.jpg);
+          background-size: auto 100%;
+          height: 250px;
+        overflow: auto;}
+#heromugs {background-image: url(javajam_images/heromugs.jpg);
+          background-size: auto 100%;
+          height: 250px;
+          overflow: auto;}
+#heroguitar {background-image: url(javajam_images/heroguitar.jpg);
+          background-size: auto 100%;
+          height: 250px;
+          overflow: auto;}

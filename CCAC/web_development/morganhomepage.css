@@ -1,0 +1,17 @@
+body { background-color: #e6e6fa;
+      color: #191970; }
+header {background-color: #191970;
+
+      text-align: center;}
+h1 {color: #e6e6fa;
+  line-height: 200%;
+  text-shadow: 3px 3px 5px #cccccc;}
+nav {text-align: center;
+    font-weight: bold;}
+footer {background-color: #e6e6fa;
+      font-size: .60em;
+      text-align: center;
+      font-style: italic;}
+#wrapper {margin-left: auto;
+        margin-right: auto;
+        width: 80%;}
